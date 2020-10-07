@@ -9,8 +9,8 @@
 
 ---
 
-| **Point no.** | **Errors** | **Reason** |
+| **Point with erro** | **Errors statement** | **Reason** |
 | ----- | ---------- | ------ |
-| e> | k=(a*b)(c+(2.5a+b)(d+e)| bracket should be ) after end of line. |
+| e> | k=(a*b)(c+(2.5a+b)(d+e)| bracket should be ) at the end . |
 | h> | area = 3.14*r**2; | only one * between r and 2|
 | k> | a=b=3=4; | 3 is not equal to 4 we can write it like a=3,b=4; |
