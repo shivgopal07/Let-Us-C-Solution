@@ -9,7 +9,7 @@
 
 ---
 
-| Point no. | **Errors** | Reason |
+| **Point no.** | **Errors** | **Reason** |
 | ----- | ---------- | ------ |
 | e> | k=(a*b)(c+(2.5a+b)(d+e)| bracket should be ) after end of line. |
 | h> | area = 3.14*r**2; | only one * between r and 2|
